@@ -1,0 +1,1 @@
+// All the images file or any other files like pdf, videos used in the React app are placed here

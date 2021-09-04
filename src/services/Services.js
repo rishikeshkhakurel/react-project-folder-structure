@@ -1,0 +1,1 @@
+//everthing that need to be accessed from localstorage is kept here

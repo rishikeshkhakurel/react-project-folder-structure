@@ -1,0 +1,1 @@
+//All the api end point are kept here so it is not scater in all hooks 

@@ -1,0 +1,1 @@
+//Global Style is kept here and called in index.js so it is accessable from all part of code also the change here is applied to all component
